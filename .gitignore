@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+dist/
+.env
+*.log
+push_to_github.sh
